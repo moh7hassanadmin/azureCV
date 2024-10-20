@@ -1,1 +1,1 @@
-# azureCV
+# Azure CV challenge
